@@ -1,0 +1,17 @@
+Design Goals
+
+ * Produce reprap electronics package for under $40 USD a board component cost
+ * PCB easy to print on a reprap
+ * Use all smd components for oven reflow
+ * As compatable as possible with existing solutions
+ 
+Features
+
+ * ISP over microUSB using bit-bang method
+ * Passive cooling
+ * Uses Texas Instruments DRV8824 stepper drivers
+ * Uses FDTI FT232R usb chip
+ * Compatable with existing firmware
+ 
+Evolving partial BOM list
+http://www.mouser.com:80/ProjectManager/ProjectDetail.aspx?AccessID=b0c80c8d2a
