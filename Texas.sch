@@ -24,7 +24,7 @@ device=CAPACITOR
 T 17900 27400 5 10 0 0 90 0 1
 symversion=0.1
 T 18300 27800 5 10 1 1 0 0 1
-refdes=C1e
+refdes=C1E
 T 18000 27400 5 10 1 1 0 0 1
 value=0.01uF
 T 16500 25800 5 10 0 1 0 0 1
@@ -44,7 +44,7 @@ C1=0.01uF
 T 18000 27500 5 10 0 0 0 0 1
 symversion=0.1
 T 18300 26900 5 10 1 1 0 0 1
-refdes=C2e
+refdes=C2E
 T 18300 26500 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -62,7 +62,7 @@ C1=0.01uF
 T 8700 26500 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 25900 5 10 1 1 0 0 1
-refdes=C3e
+refdes=C3E
 T 9200 25400 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -71,7 +71,7 @@ C 9600 25500 1 0 0 resistor-2.sym
 T 10000 25850 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 25800 5 10 1 1 0 0 1
-refdes=R1e
+refdes=R1E
 T 10100 25700 5 10 1 1 0 0 1
 value=.4
 T 10000 25500 5 10 0 1 0 0 1
@@ -94,7 +94,7 @@ C1=0.01uF
 T 8700 25300 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 24700 5 10 1 1 0 0 1
-refdes=C4e
+refdes=C4E
 T 9100 24700 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -104,7 +104,7 @@ C 9600 24300 1 0 0 resistor-2.sym
 T 10000 24650 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 24600 5 10 1 1 0 0 1
-refdes=R2e
+refdes=R2E
 T 10100 24500 5 10 1 1 0 0 1
 value=.4
 T 9900 24100 5 10 0 1 0 0 1
@@ -123,7 +123,7 @@ C 19200 21400 1 90 0 capacitor-1.sym
 T 18500 21600 5 10 0 0 90 0 1
 device=CAPACITOR
 T 18700 21600 5 10 1 1 90 0 1
-refdes=C5e
+refdes=C5E
 T 18300 21600 5 10 0 0 90 0 1
 symversion=0.1
 T 20100 21700 5 10 1 1 180 0 1
@@ -140,7 +140,7 @@ C 19200 22000 1 0 0 drv8824.sym
 T 20495 28100 5 10 1 1 0 0 1
 device=DRV8824
 T 19533 28100 5 10 1 1 0 0 1
-refdes=U3e
+refdes=U3E
 T 20600 25800 5 10 0 1 0 0 1
 footprint=SSOP28
 }
@@ -171,7 +171,7 @@ device=CAPACITOR
 T 17900 35400 5 10 0 0 90 0 1
 symversion=0.1
 T 18300 35800 5 10 1 1 0 0 1
-refdes=C1z
+refdes=C1Z
 T 18000 35400 5 10 1 1 0 0 1
 value=0.01uF
 T 18500 35200 5 10 0 1 0 0 1
@@ -190,7 +190,7 @@ C1=0.01uF
 T 18000 35500 5 10 0 0 0 0 1
 symversion=0.1
 T 18300 34900 5 10 1 1 0 0 1
-refdes=C2z
+refdes=C2Z
 T 18700 34200 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -208,7 +208,7 @@ C1=0.01uF
 T 8700 34500 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 33900 5 10 1 1 0 0 1
-refdes=C3z
+refdes=C3Z
 T 13200 30100 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -217,7 +217,7 @@ C 9600 33500 1 0 0 resistor-2.sym
 T 10000 33850 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 33800 5 10 1 1 0 0 1
-refdes=R1z
+refdes=R1Z
 T 10100 33700 5 10 1 1 0 0 1
 value=.4
 T 12900 33100 5 10 0 1 0 0 1
@@ -238,7 +238,7 @@ C1=0.01uF
 T 8700 33300 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 32700 5 10 1 1 0 0 1
-refdes=C4z
+refdes=C4Z
 T 9200 32600 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -248,7 +248,7 @@ C 9600 32300 1 0 0 resistor-2.sym
 T 10000 32650 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 32600 5 10 1 1 0 0 1
-refdes=R2z
+refdes=R2Z
 T 10100 32500 5 10 1 1 0 0 1
 value=.4
 T 14500 29700 5 10 0 1 0 0 1
@@ -267,7 +267,7 @@ C 19200 29400 1 90 0 capacitor-1.sym
 T 18500 29600 5 10 0 0 90 0 1
 device=CAPACITOR
 T 18700 29600 5 10 1 1 90 0 1
-refdes=C5z
+refdes=C5Z
 T 18300 29600 5 10 0 0 90 0 1
 symversion=0.1
 T 20100 29700 5 10 1 1 180 0 1
@@ -284,7 +284,7 @@ C 19200 30000 1 0 0 drv8824.sym
 T 20595 36100 5 10 1 1 0 0 1
 device=DRV8824
 T 19533 36100 5 10 1 1 0 0 1
-refdes=U3z
+refdes=U3Z
 T 20200 34300 5 10 0 1 0 0 1
 footprint=SSOP28
 }
@@ -315,7 +315,7 @@ device=CAPACITOR
 T 17900 43400 5 10 0 0 90 0 1
 symversion=0.1
 T 18300 43800 5 10 1 1 0 0 1
-refdes=C1y
+refdes=C1Y
 T 18000 43400 5 10 1 1 0 0 1
 value=0.01uF
 T 18600 43600 5 10 0 1 0 0 1
@@ -334,7 +334,7 @@ C1=0.01uF
 T 18000 43500 5 10 0 0 0 0 1
 symversion=0.1
 T 18300 42900 5 10 1 1 0 0 1
-refdes=C2y
+refdes=C2Y
 T 18300 42800 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -352,7 +352,7 @@ C1=0.01uF
 T 8700 42500 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 41900 5 10 1 1 0 0 1
-refdes=C3y
+refdes=C3Y
 T 8900 41800 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -361,7 +361,7 @@ C 9600 41500 1 0 0 resistor-2.sym
 T 10000 41850 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 41800 5 10 1 1 0 0 1
-refdes=R1y
+refdes=R1Y
 T 10100 41700 5 10 1 1 0 0 1
 value=.4
 T 10100 41600 5 10 0 1 0 0 1
@@ -382,7 +382,7 @@ C1=0.01uF
 T 8700 41300 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 40700 5 10 1 1 0 0 1
-refdes=C4y
+refdes=C4Y
 T 8900 40700 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -392,7 +392,7 @@ C 9600 40300 1 0 0 resistor-2.sym
 T 10000 40650 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 40600 5 10 1 1 0 0 1
-refdes=R2y
+refdes=R2Y
 T 10100 40500 5 10 1 1 0 0 1
 value=.4
 T 14100 40700 5 10 0 1 0 0 1
@@ -411,7 +411,7 @@ C 19200 37400 1 90 0 capacitor-1.sym
 T 18500 37600 5 10 0 0 90 0 1
 device=CAPACITOR
 T 18700 37600 5 10 1 1 90 0 1
-refdes=C5y
+refdes=C5Y
 T 18300 37600 5 10 0 0 90 0 1
 symversion=0.1
 T 20100 37700 5 10 1 1 180 0 1
@@ -428,7 +428,7 @@ C 19200 38000 1 0 0 drv8824.sym
 T 20595 44100 5 10 1 1 0 0 1
 device=DRV8824
 T 19533 44100 5 10 1 1 0 0 1
-refdes=U3y
+refdes=U3Y
 T 20500 42400 5 10 0 1 0 0 1
 footprint=SSOP28
 }
@@ -458,7 +458,7 @@ device=CAPACITOR
 T 17900 51400 5 10 0 0 90 0 1
 symversion=0.1
 T 18300 51800 5 10 1 1 0 0 1
-refdes=C1x
+refdes=C1X
 T 18000 51400 5 10 1 1 0 0 1
 value=0.01uF
 T 18600 51500 5 10 0 1 0 0 1
@@ -477,7 +477,7 @@ C1=0.01uF
 T 18000 51500 5 10 0 0 0 0 1
 symversion=0.1
 T 18300 50900 5 10 1 1 0 0 1
-refdes=C2x
+refdes=C2X
 T 18300 50900 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -495,7 +495,7 @@ C1=0.01uF
 T 8700 50500 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 49900 5 10 1 1 0 0 1
-refdes=C3x
+refdes=C3X
 T 9300 49100 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -504,7 +504,7 @@ C 9600 49500 1 0 0 resistor-2.sym
 T 10000 49850 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 49800 5 10 1 1 0 0 1
-refdes=R1x
+refdes=R1X
 T 10100 49700 5 10 1 1 0 0 1
 value=.4
 T 13700 48400 5 10 0 1 0 0 1
@@ -525,7 +525,7 @@ C1=0.01uF
 T 8700 49300 5 10 0 0 0 0 1
 symversion=0.1
 T 9000 48700 5 10 1 1 0 0 1
-refdes=C4x
+refdes=C4X
 T 9100 48500 5 10 0 1 0 0 1
 footprint=0805
 }
@@ -535,7 +535,7 @@ C 9600 48300 1 0 0 resistor-2.sym
 T 10000 48650 5 10 0 0 0 0 1
 device=RESISTOR
 T 9800 48600 5 10 1 1 0 0 1
-refdes=R2x
+refdes=R2X
 T 10100 48500 5 10 1 1 0 0 1
 value=.4
 T 9800 48100 5 10 0 1 0 0 1
@@ -554,7 +554,7 @@ C 19200 45400 1 90 0 capacitor-1.sym
 T 18500 45600 5 10 0 0 90 0 1
 device=CAPACITOR
 T 18700 45600 5 10 1 1 90 0 1
-refdes=C5x
+refdes=C5X
 T 18300 45600 5 10 0 0 90 0 1
 symversion=0.1
 T 20100 45700 5 10 1 1 180 0 1
@@ -571,7 +571,7 @@ C 19200 46000 1 0 0 drv8824.sym
 T 20595 52200 5 10 1 1 0 0 1
 device=DRV8824
 T 19533 52100 5 10 1 1 0 0 1
-refdes=U3x
+refdes=U3X
 T 20200 50000 5 10 0 1 0 0 1
 footprint=SSOP28
 }
@@ -606,6 +606,8 @@ C 30800 28700 1 0 0 usb-microb.sym
 {
 T 30900 31000 5 10 1 1 0 0 1
 refdes=MicroUSB
+T 31600 29900 5 10 1 1 0 0 1
+footprint=usb-microb.fp
 }
 C 35100 30800 1 180 0 fuse-2.sym
 {
@@ -771,8 +773,6 @@ T 35700 46600 5 10 0 0 270 0 1
 device=CONNECTOR_3
 T 34900 48500 5 10 1 1 0 0 1
 refdes=X_MIN
-T 34800 48400 5 10 0 1 0 0 1
-footprint=100-3-1
 T 35500 47500 5 10 0 1 0 0 1
 footprint=100-3-1SMD.fp
 }
@@ -782,8 +782,6 @@ T 36100 48500 5 10 1 1 0 0 1
 refdes=Y_MIN
 T 36900 46600 5 10 0 0 270 0 1
 device=CONNECTOR_3
-T 36000 48400 5 10 0 1 0 0 1
-footprint=100-3-1
 T 36500 48200 5 10 0 0 0 0 1
 footprint=100-3-1SMD.fp
 }
@@ -793,8 +791,6 @@ T 37300 48500 5 10 1 1 0 0 1
 refdes=Z_MIN
 T 38100 46600 5 10 0 0 270 0 1
 device=CONNECTOR_3
-T 37200 48400 5 10 0 1 0 0 1
-footprint=100-3-1
 T 37700 47400 5 10 0 0 0 0 1
 footprint=100-3-1SMD.fp
 }
