@@ -1,3 +1,7 @@
+# Author : Eric Schuler
+# Email : eschuler@gmail.com
+# License : TAPR OHL v1.0
+
 Element[0x00000000 "" "" "" 1000 1000 0 -4000 0 100 0x00000000]
 (
 	Pad[-14900 0 -8800 0 2200 0 2200 "1" "1" 0x00000100]

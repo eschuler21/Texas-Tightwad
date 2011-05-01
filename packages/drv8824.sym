@@ -1,3 +1,7 @@
+# Author : Eric Schuler
+# Email : eschuler@gmail.com
+# License : TAPR OHL v1.0
+
 v 20100214 2
 P 3600 5600 3300 5600 1 0 0
 {
@@ -319,3 +323,14 @@ T 333 6100 8 10 1 1 0 0 1
 refdes=U?
 T 300 6300 8 10 0 0 0 0 1
 dist-license=GPL
+P 1700 300 1700 0 1 0 0
+{
+T 1700 2700 5 10 0 0 0 0 1
+pintype=pwr
+T 2145 300 5 10 1 1 180 0 1
+pinlabel=GND
+T 1395 250 5 10 1 1 180 6 1
+pinnumber=29
+T 1700 2700 5 10 0 0 0 0 1
+pinseq=29
+}

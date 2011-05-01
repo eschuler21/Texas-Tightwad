@@ -1,7 +1,6 @@
-# release: pcb 20091103
-# date:    Sun Apr 24 17:12:18 2011
-# user:    eric (Eric,,,)
-# host:    Headless-Horseman
+# Author : Eric Schuler
+# Email : eschuler@gmail.com
+# License : TAPR OHL v1.0
 
 Element["" "" "" "" 26772 22441 0 0 0 100 ""]
 (

@@ -3,8 +3,7 @@
 # dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
 # use-license: unlimited
 
-Element[0x00000000 "Aluminium electrolytic capacitor, 5mm, SMD" "C000"
-"" 28543 17717 0 0 0 100 0x00000000]
+Element[0x00000000 "" "" "" 28543 17717 0 0 0 100 0x00000000]
 (
 Pad[4922 0 12796 0 3937 2000 5937 "2" "2" "square,edge2"]
 Pad[-12795 0 -4921 0 3937 2000 5937 "1" "1" "square"]
