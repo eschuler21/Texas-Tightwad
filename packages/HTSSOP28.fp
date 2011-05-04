@@ -1,5 +1,6 @@
 # Author : Eric Schuler
 # Email : eschuler@gmail.com
+# Copyright : 2011
 # License : TAPR OHL v1.0
 
 Element(0x00 "Shrink small outline package, .65mm, narrow" "" "HTSSOP28" 184 50 3 100 0x00)

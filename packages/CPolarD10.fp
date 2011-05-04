@@ -1,5 +1,6 @@
 # Author : Eric Schuler
 # Email : eschuler@gmail.com
+# Copyright : 2011
 # License : TAPR OHL v1.0
 
 Element["" "" "" "" 26772 22441 0 0 0 100 ""]

@@ -1,5 +1,6 @@
 # Author : Eric Schuler
 # Email : eschuler@gmail.com
+# Copyright : 2011
 # License : TAPR OHL v1.0
 
 Element["" "" "MicroUSB" "" 8350 14500 -3850 -3737 0 100 ""]
