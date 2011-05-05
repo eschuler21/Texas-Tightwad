@@ -1,8 +1,3 @@
-# Author : Eric Schuler
-# Email : eschuler@gmail.com
-# Copyright : 2011
-# License : TAPR OHL v1.0
-
 v 20100214 2
 P 3700 5300 3400 5300 1 0 0
 {
@@ -514,3 +509,4 @@ pinlabel=VCC
 T 3350 4500 5 8 0 1 0 8 1
 pintype=pwr
 }
+T 2500 4800 8 10 0 1 0 0 1
