@@ -33,3 +33,5 @@ current sense resistor to as little as .4 ohms.
 
 2. Both heaters are capable of a MAX of 3A each.  If more than that is required, the
 heater driver should be run through an external relay.
+
+3. A 4oz. copperclad board is suggested for thermal reasons.
