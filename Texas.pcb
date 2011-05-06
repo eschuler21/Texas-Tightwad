@@ -1,7 +1,7 @@
-# release: pcb 20091103
-# date:    Thu May  5 19:31:52 2011
-# user:    eric (Eric,,,)
-# host:    Headless-Horseman
+# Author : Eric Schuler
+# Email : eschuler@gmail.com
+# Copyright : 2011
+# License : TAPR OHL v1.0
 
 # To read pcb files, the pcb version (or the cvs source date) must be >= the file version
 FileVersion[20070407]
