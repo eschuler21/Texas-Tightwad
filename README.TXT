@@ -14,7 +14,7 @@ Features
  * Compatable with existing firmware
  
 Evolving partial BOM list
-http://www.mouser.com:80/ProjectManager/ProjectDetail.aspx?AccessID=6bf0c07d43
+http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5d0d06c9d0
 
 Notes
 1. Instead of having a trimpot to set max current per winding, this
